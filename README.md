@@ -1,5 +1,6 @@
 # Learning git
 
+ciao
 This repo is a short guide to learning `git`. Check the [installation](#installation) section before proceeding further.
 
 ## Objectives
